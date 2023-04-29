@@ -68,7 +68,7 @@ function UserList() {
 
     return (
         <div className="user-list-container">
-            <h1 className="cen">User List</h1>
+            <h1 className="cen">User Info</h1>
             <div className="search-container">
                 <input
                     type="text"
