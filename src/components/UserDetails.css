@@ -1,0 +1,17 @@
+.user-details {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+  }
+  
+  .user-details h2 {
+    margin-top: 0;
+  }
+  
+  .user-details p {
+    margin: 10px 0;
+  }
+  
